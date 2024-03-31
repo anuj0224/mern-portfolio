@@ -1,0 +1,6 @@
+.skill:hover{
+    background-color: #F77216;
+    transition: all 0.3s;
+    font-weight: bold;
+    
+}

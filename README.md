@@ -1,6 +1,6 @@
 ## Demo
 
-https://bostami-anuj-portfolio.vercel.app/
+https://react-portfolio-lake-chi.vercel.app/
 
 
 # MERN PORTFOLIO
